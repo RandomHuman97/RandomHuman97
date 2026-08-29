@@ -1,6 +1,6 @@
 # **hi**
 
-i like writing code in Kotlin & C++, but i'm also very proficient in Typescript/Javascript, Java, and Python.
+i like writing code in Kotlin & C++ (23) but i'm also very proficient in Typescript/Javascript, Java, and Python.
 
 i mainly tend to focus on backend development and high-performance computing (algorithims n' stuff), but i also do some low level and frontend things 👍
 
